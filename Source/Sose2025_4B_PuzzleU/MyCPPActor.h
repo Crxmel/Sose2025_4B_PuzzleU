@@ -48,7 +48,7 @@ public:
 	 float BlueprintPure();
 	
 	UFUNCTION(BlueprintImplementableEvent) //wichtig
-	void BlueprintImplementableEvent();
+	void BlueprintImplementableEvent();  // darf icht extra im cpp erstellt werden
 
 	//UFUNCTION(BlueprintNativeEvent)
 	//void BlueprintNativeEvent
