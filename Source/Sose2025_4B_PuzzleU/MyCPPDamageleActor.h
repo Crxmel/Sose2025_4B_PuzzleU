@@ -16,7 +16,7 @@ public:
 	AMyCPPDamageleActor();
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite);
-	float MaxHelth = 100;
+	float MaxHelth = 200;
 
 	UPROPERTY();
 	float CurrentHealth = 40;
